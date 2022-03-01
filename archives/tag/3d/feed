@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>3D &#8211; United Help Ukraine</title>
+	<atom:link href="https://unitedhelp.art/archives/tag/3d/feed" rel="self" type="application/rss+xml" />
+	<link>https://unitedhelp.art</link>
+	<description>Helping People.  Saving Lives.</description>
+	<lastBuildDate>Wed, 21 Mar 2018 15:39:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>A Ukrainian soldier&#8217;s path to recovery</title>
+		<link>https://unitedhelp.art/archives/3576</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Wed, 21 Mar 2018 15:39:08 +0000</pubDate>
+				<category><![CDATA[Medical Supplies]]></category>
+		<category><![CDATA[3D]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=3576</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Treatment at Nodus using 3D technology (video)</title>
+		<link>https://unitedhelp.art/archives/2523</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Wed, 05 Apr 2017 03:17:50 +0000</pubDate>
+				<category><![CDATA[Wounded Warrior]]></category>
+		<category><![CDATA[3D]]></category>
+		<category><![CDATA[Diaspora]]></category>
+		<category><![CDATA[donors]]></category>
+		<category><![CDATA[wounded]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=2523</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Doctors at Nodus do wonders using 3D technology (video)</title>
+		<link>https://unitedhelp.art/archives/1906</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Mon, 06 Feb 2017 03:23:33 +0000</pubDate>
+				<category><![CDATA[Medical Supplies]]></category>
+		<category><![CDATA[Wounded Warrior]]></category>
+		<category><![CDATA[3D]]></category>
+		<category><![CDATA[hospitals]]></category>
+		<category><![CDATA[soldiers]]></category>
+		<category><![CDATA[wounded]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=1906</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>3D Scanner at Work</title>
+		<link>https://unitedhelp.art/archives/1909</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2017 03:40:22 +0000</pubDate>
+				<category><![CDATA[Medical Supplies]]></category>
+		<category><![CDATA[Wounded Warrior]]></category>
+		<category><![CDATA[3D]]></category>
+		<category><![CDATA[hospitals]]></category>
+		<category><![CDATA[soldiers]]></category>
+		<category><![CDATA[wounded]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=1909</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>3D Scanner for Ukrainian Clinic</title>
+		<link>https://unitedhelp.art/archives/1411</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Mon, 19 Dec 2016 04:57:02 +0000</pubDate>
+				<category><![CDATA[Humanitarian Aid]]></category>
+		<category><![CDATA[Medical Supplies]]></category>
+		<category><![CDATA[Wounded Warrior]]></category>
+		<category><![CDATA[3D]]></category>
+		<category><![CDATA[Charity]]></category>
+		<category><![CDATA[donors]]></category>
+		<category><![CDATA[hospitals]]></category>
+		<category><![CDATA[soldiers]]></category>
+		<category><![CDATA[wounded]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=1411</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

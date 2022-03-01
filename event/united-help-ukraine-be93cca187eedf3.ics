@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//United Help Ukraine - ECPv4.9.12//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Help Ukraine
+X-ORIGINAL-URL:https://unitedhelp.art
+X-WR-CALDESC:Events for United Help Ukraine
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20200308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20201101T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200216T160000
+DTEND;TZID=America/New_York:20200216T180000
+DTSTAMP:20220301T151344
+CREATED:20200208T232022Z
+LAST-MODIFIED:20200208T232022Z
+UID:4089-1581868800-1581876000@unitedhelp.art
+SUMMARY:Nebesna Sotnya/ Heavenly Hundred Memorial Vigil
+DESCRIPTION: \nMemorial Vigil in front of Lincoln Memorial to commemorate those lives lost on Maidan during Winter 2013-14. \nhttps://www.facebook.com/events/485321235510973/ \n
+URL:https://unitedhelp.art/event/nebesna-sotnya-heavenly-hundred-memorial-vigil
+LOCATION:Lincoln Memorial
+CATEGORIES:march/protest,raising awareness
+ATTACH;FMTTYPE=image/jpeg:https://unitedhelp.art/wp-content/uploads/2020/02/83995606_2821977594536018_3653448513695514624_n.jpg
+END:VEVENT
+END:VCALENDAR

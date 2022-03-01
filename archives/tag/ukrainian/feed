@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ukrainian &#8211; United Help Ukraine</title>
+	<atom:link href="https://unitedhelp.art/archives/tag/ukrainian/feed" rel="self" type="application/rss+xml" />
+	<link>https://unitedhelp.art</link>
+	<description>Helping People.  Saving Lives.</description>
+	<lastBuildDate>Sun, 12 Nov 2017 19:57:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>FUNDRAISER: Winter Sports in Carpathians for Ukrainian Soldiers</title>
+		<link>https://unitedhelp.art/archives/1422</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Mon, 19 Dec 2016 05:42:41 +0000</pubDate>
+				<category><![CDATA[Fund Raising]]></category>
+		<category><![CDATA[Humanitarian Aid]]></category>
+		<category><![CDATA[Wounded Warrior]]></category>
+		<category><![CDATA[Charity]]></category>
+		<category><![CDATA[Diaspora]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[soldiers]]></category>
+		<category><![CDATA[sports]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+		<category><![CDATA[veterans]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=1422</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>2016 Heavenly Hundred Commemoration &#8211; Charity Concert</title>
+		<link>https://unitedhelp.art/archives/104</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2016 00:19:57 +0000</pubDate>
+				<category><![CDATA[Fund Raising]]></category>
+		<category><![CDATA[Raising Awareness]]></category>
+		<category><![CDATA[Wounded Warrior]]></category>
+		<category><![CDATA[Charity]]></category>
+		<category><![CDATA[DC]]></category>
+		<category><![CDATA[Diaspora]]></category>
+		<category><![CDATA[Embassy of Ukraine]]></category>
+		<category><![CDATA[EuroMaidan]]></category>
+		<category><![CDATA[FreeUkraine]]></category>
+		<category><![CDATA[Gerdan]]></category>
+		<category><![CDATA[Heavenly Hundred]]></category>
+		<category><![CDATA[Maidan]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<category><![CDATA[Ukrainian]]></category>
+		<category><![CDATA[Ukrainian Diaspora]]></category>
+		<category><![CDATA[USA]]></category>
+		<category><![CDATA[Washington]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/1/?p=104</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

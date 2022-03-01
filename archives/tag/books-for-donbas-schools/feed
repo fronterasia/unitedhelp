@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>books for Donbas schools &#8211; United Help Ukraine</title>
+	<atom:link href="https://unitedhelp.art/archives/tag/books-for-donbas-schools/feed" rel="self" type="application/rss+xml" />
+	<link>https://unitedhelp.art</link>
+	<description>Helping People.  Saving Lives.</description>
+	<lastBuildDate>Sat, 19 May 2018 18:54:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Historical maps for schools in the Donbas region</title>
+		<link>https://unitedhelp.art/archives/3654</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Sat, 19 May 2018 18:54:36 +0000</pubDate>
+				<category><![CDATA[Humanitarian Aid]]></category>
+		<category><![CDATA[Raising Awareness]]></category>
+		<category><![CDATA[books for Donbas schools]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=3654</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>USA maps for Donbas schools</title>
+		<link>https://unitedhelp.art/archives/3652</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Sat, 19 May 2018 18:51:11 +0000</pubDate>
+				<category><![CDATA[Humanitarian Aid]]></category>
+		<category><![CDATA[Raising Awareness]]></category>
+		<category><![CDATA[books for Donbas schools]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=3652</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>History textbooks for schools in Donbas Region</title>
+		<link>https://unitedhelp.art/archives/3644</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Sat, 19 May 2018 18:47:53 +0000</pubDate>
+				<category><![CDATA[Humanitarian Aid]]></category>
+		<category><![CDATA[Raising Awareness]]></category>
+		<category><![CDATA[books for Donbas schools]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=3644</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

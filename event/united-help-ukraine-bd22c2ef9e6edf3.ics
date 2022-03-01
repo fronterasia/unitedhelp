@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//United Help Ukraine - ECPv4.9.12//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Help Ukraine
+X-ORIGINAL-URL:https://unitedhelp.art
+X-WR-CALDESC:Events for United Help Ukraine
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20210314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20211107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210305
+DTEND;VALUE=DATE:20210308
+DTSTAMP:20220301T151215
+CREATED:20210221T190406Z
+LAST-MODIFIED:20210221T200009Z
+UID:4154-1614902400-1615161599@unitedhelp.art
+SUMMARY:Ukrainian Contemporary Music Festival
+DESCRIPTION:From Friday\, March 5 through Sunday\, March 7\, 2021\, the second annual Ukrainian Contemporary Music Festival will explore the role of music in contemporary Ukrainian culture and politics through lively presentations and performances under the theme “Voices Across Generations” to mark thirty years of Ukrainian independence.\n\nStreamed from stages across NYC\, including the Ukrainian Museum\, on the Musae online platform\, the Festival will provide space to both hear today’s most exciting Ukrainian new music and to contextualize its place within a broader scope of history and society. Each event held during the festival will pair thought-provoking commentary by distinguished scholars of Ukrainian history and culture with a performance of works by Ukraine’s leading living composers\, surveying Ukraine’s musical triumphs during contemporary independence. The festival showcases Ukraine’s complex and unique contributions through performance and discussions that explore music’s role in contemporary culture.\n\nThe Ukrainian Contemporary Music Festival has adapted to current conditions by switching to an online platform for this year’s events. UCMF believes that even in uncertain times\, Ukrainian music must be heard and supported\, and Ukrainian performers and composers must be given the opportunity to be showcased to a wider audience. UCMF proudly plays its integral part in cultural diplomacy on behalf of Ukraine.\n\nPlease share the upcoming Ukrainian Contemporary Music Festival with your networks\, students and teachers\, friends\, family\, and anyone you think may be interested in this groundbreaking event. The virtue of online events is that anyone can join from anywhere in the world; furthermore\, the Musae platform allows for re-visiting the Festival even after it is over.\n\nAn All-Access Pass provides the most benefit for the ticket-holder: access to the full program all three days of the Festival\, access to one of two special events (an interview with legendary composer Leonid Hrabovsky or a discussion between Razom President Dora Chomiak and Ukrainian Institute Director Volodymyr Sheiko on Ukrainian identity)\, a physical Festival program as a special keepsake\, and a couple other fun surprises.\n\nUCMF is also offering students free access if they complete the form found here:  https://forms.gle/EbpDY4fCe9Jg1Pqm8\n\nThe Ukrainian Contemporary Music Festival is only possible thanks to the generosity and cooperation of Razom For Ukraine\, the Ukrainian Institute in Ukraine\, and donors like you.\n\nFeatured events include:\n\nVoices of the New Millennium\nFriday\, March 5 at 7:00pm                                                                                    \nStreamed from Ukrainian Museum in NYC\nAll written since the year 2000\, the music featured in our opening concert includes works from Ukraine’s youngest generation of composers as well as compositions by established Ukrainian composers Victoria Poleva and Oleh Bezborodko.\n \n\nCurating the Music Festival: Approaches to New Repertoires \nDate: Saturday\, March 6 at 12:00pm EST \nA live discussion on Zoom with Liubov Morozova (Artistic Director of Kyiv Symphony Orchestra\, Music Program Curator of Bouquet Kyiv Music Festival) and Christopher Gibbs (Ottaway Professor of Music at Bard College\, Co-Artistic Director of the Bard Music Festival) \n\nThe Kyiv Avant-Garde\nSaturday\, March 6 at 7:30pm\nStreamed from Kaufman Music Center\, Merkin Hall\nThis concert will showcase pivotable works of the Kyiv Avant-Garde\, also known as the Sixtiers or shistdesyatnyky. Peter Schmelz will introduce the performance with a pre-concert talk about this exciting period of creativity.\n\nElectroacoustic Voices\nSunday\, March 7 at 2:30pm                                                                                    \nStreamed from DiMenna Center\, Cary Hall\nUkraine’s foremost composer of electronic music\, Alla Zahaykevych\, will introduce a concert of electro-acoustic works by Ukrainian composers.\n\n \n\nPlease visit the official Festival website for more information: ucmfnyc.com. \n\n\n\n\n
+URL:https://unitedhelp.art/event/ukrainian-contemporary-music-festival
+LOCATION:online event
+CATEGORIES:concert
+ATTACH;FMTTYPE=image/jpeg:https://unitedhelp.art/wp-content/uploads/2021/02/126248153_403453600913624_5488855320984208946_o.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//United Help Ukraine - ECPv4.9.12//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Help Ukraine
+X-ORIGINAL-URL:https://unitedhelp.art
+X-WR-CALDESC:Events for United Help Ukraine
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190503T170000
+DTEND;TZID=America/New_York:20190503T190000
+DTSTAMP:20220301T151354
+CREATED:20190421T170954Z
+LAST-MODIFIED:20190421T170954Z
+UID:4010-1556902800-1556910000@unitedhelp.art
+SUMMARY:A charitable concert by violinist virtuosi Oleksandr Bozhyk
+DESCRIPTION:\nOn Friday\, May 3 at 5PM: A charitable concert by violinist virtuosi Oleksandr Bozhyk. The concert is organized by Revived Soldiers Ukraine and Embassy of Ukraine in the USA. Two wounded Ukrainian soldiers\, Vitalii Bilous and Volodymyr Yurkov\, will arrive from Ukraine just in time for the concert. The funds raised at the concert will be used to cover prosthetic legs for both soldiers. Please come to personally greet the heroes\, listen to the music\, and support the great cause.\n\n\nTickets are available at https://www.eventbrite.com/e/washington-dc-violonist-virtuosi-oleksandr-bozhyk-in-ukrainian-embassy-tickets-58872321699\n\n
+URL:https://unitedhelp.art/event/a-charitable-concert-by-violinist-virtuosi-oleksandr-bozhyk
+LOCATION:Embassy of Ukraine in the USA\, 3350 M Street NW\, Washington\, DC\, 20007\, United States
+END:VEVENT
+END:VCALENDAR

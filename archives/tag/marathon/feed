@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>marathon &#8211; United Help Ukraine</title>
+	<atom:link href="https://unitedhelp.art/archives/tag/marathon/feed" rel="self" type="application/rss+xml" />
+	<link>https://unitedhelp.art</link>
+	<description>Helping People.  Saving Lives.</description>
+	<lastBuildDate>Tue, 12 Nov 2019 03:15:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Ukrainian community greeted Ukrainian Veterans-participants of the 44th Marine Corps Marathon</title>
+		<link>https://unitedhelp.art/archives/4067</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2019 03:14:42 +0000</pubDate>
+				<category><![CDATA[Raising Awareness]]></category>
+		<category><![CDATA[Wounded Warrior]]></category>
+		<category><![CDATA[marathon]]></category>
+		<category><![CDATA[soldiers]]></category>
+		<category><![CDATA[sports]]></category>
+		<category><![CDATA[veterans]]></category>
+		<category><![CDATA[wounded]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=4067</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ukrainian wounded warriors ran in the 43rd Marine Corps Marathon</title>
+		<link>https://unitedhelp.art/archives/3759</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Mon, 29 Oct 2018 21:03:17 +0000</pubDate>
+				<category><![CDATA[Raising Awareness]]></category>
+		<category><![CDATA[Wounded Warrior]]></category>
+		<category><![CDATA[marathon]]></category>
+		<category><![CDATA[soldiers]]></category>
+		<category><![CDATA[sports]]></category>
+		<category><![CDATA[veterans]]></category>
+		<category><![CDATA[wounded]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=3759</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ukrainian Diaspora supports wounded Ukrainian soldiers at the US Marine Corps Marathon (video)</title>
+		<link>https://unitedhelp.art/archives/1409</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2016 04:53:41 +0000</pubDate>
+				<category><![CDATA[Raising Awareness]]></category>
+		<category><![CDATA[Wounded Warrior]]></category>
+		<category><![CDATA[marathon]]></category>
+		<category><![CDATA[soldiers]]></category>
+		<category><![CDATA[sports]]></category>
+		<category><![CDATA[veterans]]></category>
+		<category><![CDATA[Washington]]></category>
+		<category><![CDATA[wounded]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=1409</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

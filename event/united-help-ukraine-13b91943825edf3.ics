@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//United Help Ukraine - ECPv4.9.12//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Help Ukraine
+X-ORIGINAL-URL:https://unitedhelp.art
+X-WR-CALDESC:Events for United Help Ukraine
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20220313T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20221106T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220108T120000
+DTEND;TZID=America/New_York:20220108T140000
+DTSTAMP:20220301T151201
+CREATED:20220105T044329Z
+LAST-MODIFIED:20220211T172849Z
+UID:4177-1641643200-1641650400@unitedhelp.art
+SUMMARY:Support Ukraine Now
+DESCRIPTION:This event is intended to demonstrate gratitude for the continued US support for Ukraine’s sovereignty and to request the Biden Administration to: Identify potent and specific sanctions against Russia if it further invades Ukraine\, immediately provide Ukraine with credible military support\, and to immediately institute sanctions on the Nordstream 2 pipeline. This event is organized by United Help Ukraine\, Ukrainian Congress Committee of America\, Ukrainian American Veterans\, US Ukrainian Activists\, and members of Ukrainian Diaspora. \nhttps://www.facebook.com/events/3115921068731388 \n
+URL:https://unitedhelp.art/event/support-ukraine-now
+LOCATION:White House\, White House\, Washingtom\, DC\, United States
+ATTACH;FMTTYPE=image/jpeg:https://unitedhelp.art/wp-content/uploads/2022/01/271243546_4794126780654413_9117500261523446973_n.jpg
+END:VEVENT
+END:VCALENDAR

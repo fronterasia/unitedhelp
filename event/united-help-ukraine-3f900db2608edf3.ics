@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//United Help Ukraine - ECPv4.9.12//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Help Ukraine
+X-ORIGINAL-URL:https://unitedhelp.art
+X-WR-CALDESC:Events for United Help Ukraine
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190217T153000
+DTEND;TZID=America/New_York:20190217T180000
+DTSTAMP:20220301T151447
+CREATED:20190131T014341Z
+LAST-MODIFIED:20190131T014341Z
+UID:3955-1550417400-1550426400@unitedhelp.art
+SUMMARY:Vigil to Remember Ukraine's Heavenly Hundred in Washington DC
+DESCRIPTION:Please join United Help Ukraine\, the Embassy of Ukraine\, US Ukrainian Activists\, Ukrainian National Information Services\, other Ukrainian organizations\, the diaspora in the Washington DC area\, in the vigil to remember the sacrifices of the Heavenly Hundred during the Revolution of Dignity of 2013-2014\, as well as the sacrifices of brave men and women who died defending Ukraine against Russia’s invasion since that time. Please bring a candle! We will meet at 3:30 pm at the Holodomor Memorial. \n
+URL:https://unitedhelp.art/event/vigil-to-remember-ukraines-heavenly-hundred-in-washington-dc-2
+LOCATION:Holodomor Memorial\, 600 North Capitol St NW\, Washington\, DC\, 20002\, United States
+CATEGORIES:march/protest,raising awareness
+ATTACH;FMTTYPE=image/jpeg:https://unitedhelp.art/wp-content/uploads/2016/02/16804118_1282044235196036_4751622618686668081_o.jpg
+END:VEVENT
+END:VCALENDAR

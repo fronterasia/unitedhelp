@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//United Help Ukraine - ECPv4.9.12//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Help Ukraine
+X-ORIGINAL-URL:https://unitedhelp.art
+X-WR-CALDESC:Events for United Help Ukraine
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20190310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20191103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190301T180000
+DTEND;TZID=America/New_York:20190301T220000
+DTSTAMP:20220301T151406
+CREATED:20190131T014906Z
+LAST-MODIFIED:20190131T015147Z
+UID:3957-1551463200-1551477600@unitedhelp.art
+SUMMARY:Heavenly Hundred Commemoration - Charitable Concert
+DESCRIPTION:\nEmbassy of Ukraine in the USA and non-profit charitable organization United Help Ukraine invite you to the 5th Annual Commemoration Evening dedicated to the Heavenly Hundred\, who laid down their lives during Ukraine’s Revolution of Dignity of 2013-2014.\n\n\n \n\n\nPlease join us on March 1st\, 2019 for the concert and reception to follow. \nIn the program\, classical piano music performed by Pavel Gintov. \nFunds raised at the event will be used to benefit wounded Ukrainian soldiers (project CURE).\n\n\n \n\n\nTickets are available at https://heavenlyhundred2019.eventbrite.com\n\n\n$50 – Early Bird Admission (purchase by February 17th)\n\n\n$75 – General Admission (purchase after February 17th)\n\n\n10% Senior/Veteran/Student discount – use code TAKE10.\n\n
+URL:https://unitedhelp.art/event/heavenly-hundred-commemoration-charitable-concert-2
+LOCATION:Embassy of Ukraine in the USA\, 3350 M Street NW\, Washington\, DC\, 20007\, United States
+CATEGORIES:concert,fund raising,raising awareness
+ATTACH;FMTTYPE=image/jpeg:https://unitedhelp.art/wp-content/uploads/2018/02/16179349_1258275964239530_438218132260273301_o.jpg
+END:VEVENT
+END:VCALENDAR

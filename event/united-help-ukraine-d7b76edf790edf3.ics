@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//United Help Ukraine - ECPv4.9.12//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Help Ukraine
+X-ORIGINAL-URL:https://unitedhelp.art
+X-WR-CALDESC:Events for United Help Ukraine
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20220313T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20221106T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220220T140000
+DTEND;TZID=America/New_York:20220220T170000
+DTSTAMP:20220301T151144
+CREATED:20220206T035041Z
+LAST-MODIFIED:20220211T182110Z
+UID:4207-1645365600-1645376400@unitedhelp.art
+SUMMARY:Stand With Ukraine: Day of Solidarity in Washington\, D.C.
+DESCRIPTION:Facebook: https://www.facebook.com/events/481647289975972\nEventbrite: uasolidarity.eventbrite.com\n\n\nCalling Ukrainians\, Ukrainian-Americans\, friends\, and supporters of Ukraine from all over the United States to come to Washington\, D.C. to show solidarity with Ukraine\, and support for its independence\, and territorial integrity within its internationally recognized borders\, including Crimea and the temporarily occupied regions of eastern Ukraine. \n\n\n\nSchedule of events: \n1) 2:00-3:00 PM EST at the Lincoln Memorial–Eighth Annual Commemoration and Candle Vigil for the “Heavenly Hundred/Nebesna Sotnia” to honor the fallen heroes of the Ukrainian Revolution of Dignity in 2013-2014\, and the 14\,000 soldiers and civilians who have died in the eight-year ongoing Russian war in eastern Ukraine. \n2) 3:00-4:00 PM EST at the Lincoln Memorial–Rally with speakers and performances (TBD). \n3) 4:00 PM-5:00 PM EST–Peaceful March from the Lincoln Memorial to the White House. \nFor those who cannot travel to Washington\, D.C. for this event\, we ask you to please create a “Stand With Ukraine” event in your home city on the same day as a national “flash mob.” We ask that you post your pictures and the following hashtag #StandWithUkraine. \n\nOur objectives for the rally and peaceful march are:\n1) To demonstrate our unity in support of Ukraine’s sovereignty and territorial integrity.\n2) To demand an end to Russia’s ongoing war in Ukraine and the occupation of Crimea and other territories in eastern Ukraine\, and the release of all Ukrainian citizens unjustly imprisoned by Russia.\n3) To request the Biden Administration To:\n*Enact potent sanctions (i.e. stopping Nord Stream 2) in response to Russia’s aggression in Ukraine and its failure to de-escalate and withdraw its forces from the Ukrainian border;\n*Prepare and announce further crippling sanctions (i.e.\, cutting Russia off from SWIFT) that would trigger immediately upon another invasion of Ukraine;\n*Continue sending Ukraine effective weapons to help them defend their territorial integrity and independence.\nOrganizers: United Help Ukraine\, Ukrainian Congress Committee of America\, Ukrainian American Veterans\, US Ukrainian Activists\, Razom for Ukraine\, House of Ukraine\, Ukrainian Freedom Foundation\, other Ukrainian-American organizations and members of the Ukrainian diaspora.\n\nPlease register here: uasolidarity.eventbrite.com\n\n\n\n
+URL:https://unitedhelp.art/event/stand-with-ukraine-day-of-solidarity-in-washington-d-c
+LOCATION:Lincoln Memorial
+CATEGORIES:march/protest,raising awareness
+ATTACH;FMTTYPE=image/jpeg:https://unitedhelp.art/wp-content/uploads/2022/02/273228875_10101937701482693_6210077196489731363_n.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//United Help Ukraine - ECPv4.9.12//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Help Ukraine
+X-ORIGINAL-URL:https://unitedhelp.art
+X-WR-CALDESC:Events for United Help Ukraine
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20180311T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20181104T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181216T133000
+DTEND;TZID=America/New_York:20181216T153000
+DTSTAMP:20220301T151530
+CREATED:20181126T064631Z
+LAST-MODIFIED:20190222T004941Z
+UID:3873-1544967000-1544974200@unitedhelp.art
+SUMMARY:Зустріч з письменником: Євген Положій (автор роману “Іловайськ“)
+DESCRIPTION:https://www.facebook.com/events/349924485811287/ \nUA/EN\nДрузі\, приходьте на творчу зустріч з журналістом і письменником\, автором роману “Іловайськ“\, Євгеном Положієм (Україна). Автор розповість про свої книжки “Іловайськ“\, “5 секунд\, 5 днів“\, “Перехрестя“ і відповість на ваші запитання. \nЧитачі про “Іловайськ” Євгена Положія: \n“Книга Євгена Положія читається\, як задушевна розмова з тими\, хто повернувся з війни. Ти впізнаєш їх\, розсудливих і простих\, добрих і іронічних\, таких\, яких знав і любив з дитинства — твоїх сусідів і вчителів\, селян\, лікарів\, просто звичайних хлопців. І ти відчуваєш той гострий біль за кожного загиблого у цій війні.”\n(Волонтери United Help Ukraine) \n“Саме ця книга дала мені зрозуміти масштаб трагедії\, розуміння\, що трапилось. Тут немає аналізу чому це сталось\, тут спроба дати нам зрозуміти через що пройшли люди. Це опис подій\, жахливих подій і людей в них.” (Ганна Скоріна) \nPlease join us for a book presentation event by Yevhen Polozhij\, Ukrainian journalist and author of books about the war: “Ilovaisk”\, “5 seconds\, 5 days”\, “Perekhrestya”. Presentation is in Ukrainian (English interpreter available upon request) \n“Ilovaisk” is a book about courage\, incredible heroism and humanity of Ukrainian soldiers and officers\, fighters of volunteer battalions\, all those who were in “Ilovaisk mousetrap” in the end of August 2014. The author heard stories from about one hundred witnesses of Ilovaisk tragedy. The book is a collection of short novels that are based on these events. \n
+URL:https://unitedhelp.art/event/%d0%b7%d1%83%d1%81%d1%82%d1%80%d1%96%d1%87-%d0%b7-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b5%d0%bd%d0%bd%d0%b8%d0%ba%d0%be%d0%bc-%d1%94%d0%b2%d0%b3%d0%b5%d0%bd-%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d1%96%d0%b9
+LOCATION:St. Andrew Ukrainian Orthodox Cathedral\, 15100 New Hampshire Ave.\, Silver Spring\, MD\, 20905\, United States
+CATEGORIES:raising awareness
+ATTACH;FMTTYPE=image/jpeg:https://unitedhelp.art/wp-content/uploads/2018/12/Afisha_knygky_Dec16.jpg
+END:VEVENT
+END:VCALENDAR

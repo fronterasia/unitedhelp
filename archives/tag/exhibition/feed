@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>exhibition &#8211; United Help Ukraine</title>
+	<atom:link href="https://unitedhelp.art/archives/tag/exhibition/feed" rel="self" type="application/rss+xml" />
+	<link>https://unitedhelp.art</link>
+	<description>Helping People.  Saving Lives.</description>
+	<lastBuildDate>Sun, 09 Jul 2017 17:14:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Supporting the art project &#8220;Life on &#8216;Zero&#039;&#8221; (video)</title>
+		<link>https://unitedhelp.art/archives/2879</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Sun, 09 Jul 2017 04:47:17 +0000</pubDate>
+				<category><![CDATA[Raising Awareness]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[artists]]></category>
+		<category><![CDATA[exhibition]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=2879</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Raising awareness about realities of the war with Russia</title>
+		<link>https://unitedhelp.art/archives/2796</link>
+		
+		<dc:creator><![CDATA[Julie Gershunskaya]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2017 05:01:44 +0000</pubDate>
+				<category><![CDATA[Raising Awareness]]></category>
+		<category><![CDATA[artists]]></category>
+		<category><![CDATA[exhibition]]></category>
+		<category><![CDATA[veterans]]></category>
+		<guid isPermaLink="false">http://unitedhelp.art/?p=2796</guid>
+
+					<description><![CDATA[&#8230;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

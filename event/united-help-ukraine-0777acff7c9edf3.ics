@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//United Help Ukraine - ECPv4.9.12//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:United Help Ukraine
+X-ORIGINAL-URL:https://unitedhelp.art
+X-WR-CALDESC:Events for United Help Ukraine
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20210314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20211107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210221T160000
+DTEND;TZID=America/New_York:20210221T180000
+DTSTAMP:20220301T151300
+CREATED:20210215T214741Z
+LAST-MODIFIED:20210215T214932Z
+UID:4142-1613923200-1613930400@unitedhelp.art
+SUMMARY:Heavenly Hundred Vigil - VIRTUAL
+DESCRIPTION:United Help Ukraine\, in association with the Embassy of Ukraine in the United States\, invites you to commemorate the sacrifice of Nebesna Sotnya (“Heavenly Hundred”) on Kyiv’s Maidan seven years ago during the Winter of 2013-14. The event this year will take place online via ZOOM due to the COVID-19 pandemic\, beginning at 4:00 p.m. on Sunday\, February 21. \n\nUnited Help Ukraine разом iз Посольсвом України в США запрошує вас взяти участь у вшануванні пам’яті героїв Небесної Сотні\, які віддали своє життя за Україну під час Революціі Гідності взимку 2013-2014. Через пандемію\, цього року вшанування пам’яті загиблих на Майдані відбудеться через Zoom. Початок о 4pm за Вашингтоном (о 23:00 за Києвом)\, у неділю 21 лютого. \nZoom link/ посилання на віртуальну подію: https://georgetown.zoom.us/j/98631957885\n\n\nFacebook event: https://fb.me/e/1jkNRZFbZ\n
+URL:https://unitedhelp.art/event/heavenly-hundred-vigil-virtual
+LOCATION:online event
+ATTACH;FMTTYPE=image/jpeg:https://unitedhelp.art/wp-content/uploads/2021/02/148098018_3811945725539195_15969382368293113_n.jpg
+END:VEVENT
+END:VCALENDAR
